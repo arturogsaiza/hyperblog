@@ -1,0 +1,35 @@
+commit 45f9a7de04ff6c38eef6a42c7411b53053c076f0
+Author: Arturo García Saiza <44506893+arturogsaiza@users.noreply.github.com>
+Date:   Mon Jun 3 19:09:22 2019 -0700
+
+    cambios de vida y maestria
+
+commit 6e9a362a17857e816e5f371e04dc065d3a84362d
+Author: Arturo García Saiza <44506893+arturogsaiza@users.noreply.github.com>
+Date:   Mon Jun 3 19:08:40 2019 -0700
+
+    cambio de vida
+
+commit 7ffe147a272352b8548a05dab66a4f7875349f65
+Author: Arturo García Saiza <44506893+arturogsaiza@users.noreply.github.com>
+Date:   Mon Jun 3 19:07:38 2019 -0700
+
+    Arranco mi proyecto real con html y css
+
+commit a43ae79edb6e38628a369b351747e7c4e51abf1f
+Author: Arturo García Saiza <44506893+arturogsaiza@users.noreply.github.com>
+Date:   Mon Jun 3 18:35:31 2019 -0700
+
+    le agregue  unos puntos a arturo.txt
+
+commit ccd30c04797f9db025d29fa42015deef63341195
+Author: Arturo García Saiza <44506893+arturogsaiza@users.noreply.github.com>
+Date:   Mon Jun 3 18:33:53 2019 -0700
+
+    cambios en el archivo arturo.txt
+
+commit 3db2cd84b7c7f1eb21a8aefafed0e8919f0787fb
+Author: Arturo García Saiza <44506893+arturogsaiza@users.noreply.github.com>
+Date:   Mon Jun 3 18:22:21 2019 -0700
+
+    este es el primer commit
